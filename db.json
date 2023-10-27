@@ -1,0 +1,168 @@
+{
+  "hospitals": [
+    {
+      "hospitalName": "apollo",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.7VJoMTrlai-HVo_bMAlV_QHaEJ&pid=Api&P=0&h=180",
+      "area": "nellore",
+      "reviews": [],
+      "bedType": [],
+      "bed": [],
+      "bedTypes": [
+        {
+          "bedType": "general",
+          "price": "5000"
+        },
+        {
+          "bedType": "firstclass",
+          "price": "50000"
+        },
+        {
+          "bedType": "luxury",
+          "price": "25000"
+        }
+      ],
+      "id": 4,
+      "beds": [
+        {
+          "bedStatus": "open",
+          "bedtype": "general",
+          "bedPrice": "30000",
+          "patients": [],
+          "bedId": "general5"
+        },
+        {
+          "bedStatus": "open",
+          "bedtype": "general",
+          "bedPrice": "30000",
+          "patients": [],
+          "bedId": "general6"
+        },
+        {
+          "bedStatus": "open",
+          "bedtype": "general",
+          "bedPrice": "30000",
+          "patients": [],
+          "bedId": "general7"
+        }
+      ]
+    },
+    {
+      "hospitalName": "medicover",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.b_2rJcYq8EqYnzaLp7nQKwHaFI&pid=Api&P=0&h=180",
+      "area": "kukatpally",
+      "reviews": [],
+      "bedType": [],
+      "bed": [],
+      "bedTypes": [
+        {
+          "bedType": "icu",
+          "price": "34456"
+        },
+        {
+          "bedType": "firstclass",
+          "price": "43215"
+        },
+        {
+          "bedType": "luxury",
+          "price": "50000"
+        }
+      ],
+      "id": 5,
+      "beds": [
+        {
+          "bedStatus": "open",
+          "bedtype": "",
+          "bedPrice": "50000",
+          "patients": [],
+          "bedId": "1"
+        },
+        {
+          "bedStatus": "open",
+          "bedtype": "",
+          "bedPrice": "50000",
+          "patients": [],
+          "bedId": "2"
+        },
+        {
+          "bedStatus": "open",
+          "bedtype": "",
+          "bedPrice": "50000",
+          "patients": [],
+          "bedId": "3"
+        },
+        {
+          "bedStatus": "open",
+          "bedtype": "",
+          "bedPrice": "50000",
+          "patients": [],
+          "bedId": "4"
+        },
+        {
+          "bedStatus": "open",
+          "bedtype": "",
+          "bedPrice": "50000",
+          "patients": [],
+          "bedId": "5"
+        }
+      ]
+    },
+    {
+      "hospitalName": "yashoda",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.VKKPIfsaj8OmWvqFvHPc1gHaE4&pid=Api&P=0&h=180",
+      "area": "balanagar",
+      "reviews": [],
+      "bedType": [],
+      "bed": [],
+      "bedTypes": [],
+      "id": 6
+    },
+    {
+      "hospitalName": "kims",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.m-LacDIeyIelYbVZeW7H-wHaDt&pid=Api&P=0&h=180",
+      "area": "nellore",
+      "reviews": [],
+      "bedType": [],
+      "bed": [],
+      "bedTypes": [],
+      "id": 7
+    },
+    {
+      "hospitalName": "narayana ",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.zVmxzHH4PQ_RQxEavuLyKgAAAA&pid=Api&P=0&h=180",
+      "area": "gudur",
+      "reviews": [],
+      "bedType": [],
+      "bed": [],
+      "bedTypes": [
+        {
+          "bedType": "icu",
+          "price": "3000"
+        },
+        {
+          "bedType": "firstclass",
+          "price": "40000"
+        }
+      ],
+      "id": 8
+    }
+   
+  ],
+  "patients": [],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
