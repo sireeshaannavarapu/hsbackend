@@ -2,7 +2,7 @@
   "hospitals": [
     {
       "hospitalName": "apollo",
-      "image": "https://tse1.mm.bing.net/th?id=OIP.7VJoMTrlai-HVo_bMAlV_QHaEJ&pid=Api&P=0&h=180",
+     "image": "https://tse1.mm.bing.net/th?id=OIP.7VJoMTrlai-HVo_bMAlV_QHaEJ&pid=Api&P=0&h=180",
       "area": "nellore",
       "reviews": [],
       "bedType": [],
@@ -10,6 +10,7 @@
       "bedTypes": [
         {
           "bedType": "general",
+          
           "price": "5000"
         },
         {
